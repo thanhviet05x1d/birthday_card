@@ -1,3 +1,3 @@
-# birthday-card - Write Name On Pix
+# birthday-card - Write Name On Pics
 
-[https://quizmarker.github.io/birthday-card](https://quizmarker.github.io/birthday-card/)
+[https://thanhviet05x1d.github.io/viet1/](https://thanhviet05x1d.github.io/viet1/)
