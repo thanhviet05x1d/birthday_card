@@ -40,10 +40,10 @@ const IMAGES = [
     image: 'template/pic3.jpg',
     width: 600,
     height: 600,
-    position: [300, 200],
+    position: [100, 200],
     fontSize: 40,
     color: '#FF0000',
-    rotate: -10,
+    rotate: 0,
     fontName: 'Dancing Script',
     align: 'left'
   }
