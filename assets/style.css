@@ -1,0 +1,24 @@
+.main-container {
+  margin: auto;
+  max-width: 768px;
+  /* background-color: whitesmoke; */
+}
+
+.input-container {
+  width: 100%;
+}
+
+.input-row > input, select, button, textarea {
+  margin-top: 8px;
+  width: 100%;
+  height: 40px;
+}
+
+.hidden {
+  display: none;
+}
+
+.preview-container {
+  margin-top: 20px;
+  text-align: center;
+}
