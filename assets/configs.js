@@ -40,7 +40,7 @@ const IMAGES = [
     image: 'template/pic3.jpg',
     width: 600,
     height: 600,
-    position: [120, 100],
+    position: [20, 50],
     fontSize: 40,
     color: '#FF0000',
     rotate: 0,
