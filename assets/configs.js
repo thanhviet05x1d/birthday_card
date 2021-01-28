@@ -48,5 +48,17 @@ const IMAGES = [
     rotate: 0,
     fontName: 'Charmonman',
     align: 'left'
+  },
+    {
+    name: 'Face',
+    image: 'template/pic4.jpg',
+    width: 600,
+    height: 600,
+    position: [300, 400],
+    fontSize: 30,
+    color: '#FF0000',
+    rotate: 0,
+    fontName: 'Charmonman',
+    align: 'left'
   }
 ]
