@@ -63,7 +63,7 @@ const IMAGES = [
   },
   {
     name: 'Em',
-    image: 'template/pic5.jpg',
+    image: 'template/pic6.jpg',
     width: 600,
     height: 600,
     position: [300, 400],
