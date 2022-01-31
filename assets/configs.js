@@ -78,7 +78,7 @@ const IMAGES = [
     image: 'template/pic8.jpg',
     width: 600,
     height: 600,
-    position: [300, 400],
+    position: [260, 400],
     fontSize: 30,
     color: '#FF0000',
     rotate: 0,
