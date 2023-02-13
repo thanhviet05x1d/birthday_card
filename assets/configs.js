@@ -50,7 +50,7 @@ const IMAGES = [
     align: 'left'
   },
     {
-    name: 'Face',
+    name: 'YM-Bạn',
     image: 'template/pic4.jpg',
     width: 600,
     height: 600,
@@ -62,7 +62,7 @@ const IMAGES = [
     align: 'left'
   },
   {
-    name: 'Em',
+    name: 'YM-Cô',
     image: 'template/pic7.jpg',
     width: 600,
     height: 600,
@@ -74,7 +74,7 @@ const IMAGES = [
     align: 'left'
   },
   {
-    name: 'New Year',
+    name: 'YM-Thầy',
     image: 'template/pic8.jpg',
     width: 600,
     height: 600,
