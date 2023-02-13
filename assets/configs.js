@@ -51,7 +51,7 @@ const IMAGES = [
   },
     {
     name: 'YM-Bạn',
-    image: 'template/pic4.jpg',
+    image: 'template/ym_pic4.jpg',
     width: 600,
     height: 600,
     position: [300, 400],
@@ -63,7 +63,7 @@ const IMAGES = [
   },
   {
     name: 'YM-Cô',
-    image: 'template/pic7.jpg',
+    image: 'template/ym_pic7.jpg',
     width: 600,
     height: 600,
     position: [300, 400],
@@ -75,7 +75,7 @@ const IMAGES = [
   },
   {
     name: 'YM-Thầy',
-    image: 'template/pic8.jpg',
+    image: 'template/ym_pic8.jpg',
     width: 600,
     height: 600,
     position: [300, 350],
